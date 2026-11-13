@@ -1,0 +1,18 @@
+{
+    "contacts": [
+        "Ayesha",
+        "Ali",
+        "Ahmed",
+        "Sara",
+        "Usman",
+        "Fatima"
+    ],
+    "chats": {
+        "Ayesha": [],
+        "Ali": [],
+        "Ahmed": [],
+        "Sara": [],
+        "Usman": [],
+        "Fatima": []
+    }
+}
